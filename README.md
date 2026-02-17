@@ -1,3 +1,6 @@
+<img width="1919" height="1014" alt="Screenshot 2026-02-17 191555" src="https://github.com/user-attachments/assets/ce268aaf-012d-4589-98b6-082bd890ba4b" />
+<img width="1919" height="1016" alt="Screenshot 2026-02-17 191617" src="https://github.com/user-attachments/assets/4a7604c1-7f98-4a15-a730-56bc486538fd" />
+
 # 📝 Todo List — Full Stack Application
 
 A modern full-stack **Todo List Manager** built using **React (Frontend)** and **Spring Boot (Backend)** that allows users to manage tasks efficiently with real-time updates, editing, completion tracking, and a clean responsive UI.
